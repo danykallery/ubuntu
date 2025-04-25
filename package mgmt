@@ -1,0 +1,15 @@
+apt-get / apt  - 
+
+    apt install/remove/purge <package>
+
+        purge - removes package and configuration altogether 
+
+    apt upgrade/full-upgrade <package>
+
+        full-upgrade - will upgrade pakage along with all associated dependencies
+
+    apt search <keyword> - search packages with its function or name
+
+
+
+    apt list --installed 
